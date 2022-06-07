@@ -7,6 +7,6 @@ I graduated from Bahcesehir University, Department of Computer Engineering, star
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... YouTube
-- 🌱 I’m currently learning ... Spring and Spring Boot
+- 🌱 I’m currently learning ... Spring and Spring Boot in depth
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... [YouTube Channel](http://youtube.com/c/YazilimKonseptleri)
