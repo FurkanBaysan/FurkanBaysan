@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanbaysan&label=Profile%20views&color=0e75b6&style=flat" alt="furkanbaysan" /> </p>
 
-<p align="left"> <a href="https://twitter.com/baysannfurkan" target="blank"><img src="https://img.shields.io/twitter/follow/baysannfurkan?logo=twitter&style=for-the-badge" alt="baysannfurkan" /></a> </p>
-
 - 🔭 I’m currently working on **YouTube**
 
 - 🌱 I’m currently learning **Spring and Spring Boot in depth**
 
-- 📝 I regularly write articles on [https://yazilimkonseptleri.com](yazilimkonseptleri.com)
+- 📝 I regularly write articles on [https://yazilimkonseptleri.com/](https://yazilimkonseptleri.com/)
 
 - 💬 Ask me about **Anything**
 
