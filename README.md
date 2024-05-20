@@ -8,4 +8,4 @@
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **yazilimkonseptleri@gmail.com**
+- 📫 How to reach me **yazilimkonseptlerisorucevap@gmail.com**
