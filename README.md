@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Spring and Spring Boot in depth**
 
-- 📝 I regularly write articles on [https://yazilimkonseptleri.com](https://yazilimkonseptleri.com/)
+- 📝 I regularly write articles on [https://yazilimkonseptleri.com](https://medium.com/@yazilimkonseptleri/)
 
 - 💬 Ask me about **Anything**
 
